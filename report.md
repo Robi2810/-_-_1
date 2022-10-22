@@ -1,18 +1,16 @@
 # Архитектура вычислительных систем
 ## Индивидуальное домашнее задание №1
 ### Вариант 14
-<h1 align="center">Hi there, I'm <a href="[https://daniilshat.ru/](https://vk.com/graph_vishnya)" target="_blank">Daniil</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Computer science student from Russia 🇷🇺</h3>
 
-##### Вишняков Родион Сергеевич 
+### Вишняков Родион Сергеевич 
 ##### группа БПИ213
 ###### 16 октября 2022 г.
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Faculty+of+Computer+science+student)](https://git.io/typing-svg)
 
 
 Задание: Сформировать массив B из элементов массива A заменой всех отрицательных значений на максимум из массива A.
-Отчёт
+
+### Отчёт
 ![img](/p1.png)
 
 ### 4 балла
