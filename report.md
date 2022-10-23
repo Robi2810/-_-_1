@@ -28,6 +28,9 @@ $gcc -O0 -Wall -fno-asynchronous-unwind-tables -S main.c -o main.s
 
 $gcc main.s -o
 
+Лишние макросы были убраны за счёт использования аргументов командной строки. 
+
+`gcc -masm=intel -fno-asynchronous-unwind-tables -fno-jump-tables -fno-stack-protector -fno-exceptions -S main.c`
 
 Необходимые комментарии находятся в main.s
 
